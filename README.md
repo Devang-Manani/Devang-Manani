@@ -23,11 +23,12 @@ src="https://img.shields.io/github/followers/Devang-Manani?logo=github&style=for
 
 ### #Cloud
 <p align="left">
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" 
-             width="70" height="36" alt="AWS">
-    </a>
-<img src="https://icon.icepanel.io/AWS/svg/Analytics/Athena.svg" width="70" height="36" alt="AWS Athena" ><img src="https://icon.icepanel.io/AWS/svg/Analytics/Glue.svg" width="70" height="36" alt="AWS Glue"><img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="70" height="36" alt="AWS Lambda"><img src="https://icon.icepanel.io/AWS/svg/App-Integration/Step-Functions.svg" width="70" height="36" alt="Step-Functions"><img src="https://icon.icepanel.io/AWS/svg/Database/Database-Migration-Service.svg" width="70" height="36" alt="Database-Migration-Service"><img src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" width="70" height="36" alt="API-Gateway"><img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="70" height="36" alt="Simple-Storage-Service"><img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Secrets-Manager.svg" width="70" height="36" alt="Secrets-Manager"><img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg" width="70" height="36" alt="AWS VPC"><img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/AWS-EC2-900x0.png" width="70" height="36" alt="AWS EC2">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" 
+width="70" height="36" alt="AWS">
+</a>
+<img src="https://pic.onlinewebfonts.com/thumbnails/icons_68073.svg" width="40" height="36" alt="AWS Athena" >
+<img src="https://icon.icepanel.io/AWS/svg/Analytics/Athena.svg" width="40" height="36" alt="AWS Athena" ><img src="https://icon.icepanel.io/AWS/svg/Analytics/Glue.svg" width="40" height="36" alt="AWS Glue"><img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="40" height="36" alt="AWS Lambda"><img src="https://icon.icepanel.io/AWS/svg/App-Integration/Step-Functions.svg" width="40" height="36" alt="Step-Functions"><img src="https://icon.icepanel.io/AWS/svg/Database/Database-Migration-Service.svg" width="40" height="36" alt="Database-Migration-Service"><img src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" width="40" height="36" alt="API-Gateway"><img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="40" height="36" alt="Simple-Storage-Service"><img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Secrets-Manager.svg" width="40" height="36" alt="Secrets-Manager"><img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg" width="40" height="36" alt="AWS VPC"><img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/AWS-EC2-900x0.png" width="60" height="36" alt="AWS EC2">
 </p>
 
 ### # Libraries
@@ -40,7 +41,7 @@ src="https://img.shields.io/github/followers/Devang-Manani?logo=github&style=for
 ### # DataBases
 <p align="left">
 <a href="https://www.microsoft.com/en-us/sql-server"target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/601064f495f4b4967f921aa9/632b60f8c1aa184a0e5766d9_202209-ms-sql-icon-3x-p-500.png" width="90" height="40" alt="Microsoft SQL Server">
-</a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" width="45" height="36" alt="PostgreSQL"></a><span style="margin-right: 10px;"></span>
+</a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" width="45" height="36" alt="PostgreSQL"></a>
  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/768px-Elasticsearch_logo.svg.png?20210414071206"width="170" height="36" alt="Elasticsearch">
 </a>
 </p>
