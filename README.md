@@ -7,20 +7,89 @@ Data Engineer and Data Analyst
 Passionate about leveraging data to drive insights and make informed decisions. As a data engineer and analyst, I specialize in transforming raw, messy data into actionable insights. I firmly believe in the power of automation to streamline processes, because let's face it, relying on manual methods is not just inefficient.
 
 * 🌍  I'm based in INDIA
-* ✉️  You can contact me at [devangmanani9999@gmail.com](mailto:devangmanani9999@gmail.com)
-* 🧠  I'm learning Spark🌟
+* ✉️  You can contact me at [devangmanani@gmail.com](mailto:devangmanani9999@gmail.com)
+* 🧠  I'm learning somthing intresting.
 * ⚡  Love to play chess.
 
 <a href="https://www.github.com/Devang-Manani" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Devang-Manani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
 
+### # Programming Languages
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
 </p>
 
+### #Cloud
+<div style="display: flex; align-items: center;">
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" 
+             width="70" height="36" alt="AWS">
+    </a>
+    <div style="height: 10px;"></div>
+    <div style="margin-left: 10px;">
+        <div style="display: flex; align-items: center;">
+            <img src="https://icon.icepanel.io/AWS/svg/Analytics/Athena.svg" width="30" height="30" alt="AWS Lambda" style="margin-right: 5px;">
+        </div>
+        <div style="height: 10px;"></div> 
+        <div style="display: flex; align-items: center;">
+            <img src="https://icon.icepanel.io/AWS/svg/Analytics/Glue.svg" width="30" height="30" alt="AWS Glue" style="margin-right: 5px;">
+        </div>
+    </div>
+    <div style="margin-left: 10px;">
+        <div style="display: flex; align-items: center;">
+            <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="30" height="30" alt="AWS Lambda" style="margin-right: 5px;">
+        </div>
+        <div style="height: 10px;"></div> 
+        <div style="display: flex; align-items: center;">
+            <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Step-Functions.svg" width="30" height="30" alt="AWS Glue" style="margin-right: 5px;">
+        </div>
+    </div>
+    <div style="margin-left: 10px;">
+        <div style="display: flex; align-items: center;">
+            <img src="https://icon.icepanel.io/AWS/svg/Database/Database-Migration-Service.svg" width="30" height="30" alt="AWS Lambda" style="margin-right: 5px;">
+        </div>
+        <div style="height: 10px;"></div> 
+        <div style="display: flex; align-items: center;">
+            <img src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" width="30" height="30" alt="AWS Glue" style="margin-right: 5px;">
+        </div>
+    </div>
+    <div style="margin-left: 10px;">
+        <div style="display: flex; align-items: center;">
+            <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="30" height="30" alt="AWS Lambda" style="margin-right: 5px;">
+        </div>
+        <div style="height: 10px;"></div> 
+        <div style="display: flex; align-items: center;">
+            <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Secrets-Manager.svg" width="30" height="30" alt="AWS Glue" style="margin-right: 5px;">
+        </div>
+    </div>
+    <div style="margin-left: 10px;">
+        <div style="display: flex; align-items: center;">
+            <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/AWS-EC2-900x0.png" width="40" height="30" alt="AWS Lambda" style="margin-right: 5px;">
+        </div>
+        <div style="height: 10px;"></div> 
+        <div style="display: flex; align-items: center;">
+            <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg" width="30" height="30" alt="AWS Glue" style="margin-right: 5px;">
+        </div>
+    </div>
+</div>
+
+
+### # Libraries
+<p align="left">
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"><img src="https://digitalcloud.training/wp-content/uploads/2023/08/a-logo-with-a-cube-and-text-description-automatic.jpeg" width="40" height="36" alt="pyspark" /></a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"><img src="https://d25j9w72xt9yi4.cloudfront.net/eyJidWNrZXQiOiJkb2Nrc2hpcC1pbWFnZXMiLCJrZXkiOiJlY2ZkNjg3OGEyY2RlMTU2ZDM0NDJiNTUxZDA4NjE4YSIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbCwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDB9fX0=" width="80" height="36" alt="pyspark" /></a>
+<a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100" height="36" alt="pandas" /></a><a href="https://docs.pola.rs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_github_logo_rect_dark_name.svg" width="80" height="36" alt="Rust" /></a><a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="100" height="36" alt="numpy" /></a><a href="https://matplotlib.org/stable/contents.html" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width="100" height="36" alt="matplotlib" /></a>
+</p>
+
+### # DataBases
+<p align="left">
+<a href="https://www.microsoft.com/en-us/sql-server"target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/601064f495f4b4967f921aa9/632b60f8c1aa184a0e5766d9_202209-ms-sql-icon-3x-p-500.png" width="90" height="40" alt="Microsoft SQL Server">
+</a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" width="45" height="36" alt="PostgreSQL"></a><span style="margin-right: 10px;"></span>
+ <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/768px-Elasticsearch_logo.svg.png?20210414071206"width="170" height="36" alt="Elasticsearch">
+</a>
+</p>
 
 ### Socials
 
