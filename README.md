@@ -7,7 +7,7 @@ Data Engineer and Data Analyst
 Passionate about leveraging data to drive insights and make informed decisions. As a data engineer and analyst, I specialize in transforming raw, messy data into actionable insights. I firmly believe in the power of automation to streamline processes, because let's face it, relying on manual methods is not just inefficient.
 
 * 🌍  I'm based in INDIA
-* ✉️  You can contact me at [devang@gmail.com](mailto:devangmanani9999@gmail.com)
+* ✉️  You can contact me at [devangmanani9999@gmail.com](mailto:devangmanani9999@gmail.com)
 * 🧠  I'm learning Spark🌟
 * ⚡  Love to play chess.
 
