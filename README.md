@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/Devang-Manani?logo=github&style=for
 
 <a href="http://www.github.com/Devang-Manani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-Manani&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devang-Manani)](https://github.com/Devang-Manani/github-readme-activity-graph)
+[![Devang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devang-manani&bg_color=000000&color=ffffff&line=bcbcbc&point=ffffff&area=true&hide_border=true)]
 
 <a href="https://github.com/Devang-Manani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devang-Manani&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
